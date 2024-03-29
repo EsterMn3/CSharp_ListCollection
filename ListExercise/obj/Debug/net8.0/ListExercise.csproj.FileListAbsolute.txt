@@ -1,0 +1,14 @@
+C:\Users\hp\C#projects\ListExercise\bin\Debug\net8.0\ListExercise.exe
+C:\Users\hp\C#projects\ListExercise\bin\Debug\net8.0\ListExercise.deps.json
+C:\Users\hp\C#projects\ListExercise\bin\Debug\net8.0\ListExercise.runtimeconfig.json
+C:\Users\hp\C#projects\ListExercise\bin\Debug\net8.0\ListExercise.dll
+C:\Users\hp\C#projects\ListExercise\bin\Debug\net8.0\ListExercise.pdb
+C:\Users\hp\C#projects\ListExercise\obj\Debug\net8.0\ListExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\C#projects\ListExercise\obj\Debug\net8.0\ListExercise.AssemblyInfoInputs.cache
+C:\Users\hp\C#projects\ListExercise\obj\Debug\net8.0\ListExercise.AssemblyInfo.cs
+C:\Users\hp\C#projects\ListExercise\obj\Debug\net8.0\ListExercise.csproj.CoreCompileInputs.cache
+C:\Users\hp\C#projects\ListExercise\obj\Debug\net8.0\ListExercise.dll
+C:\Users\hp\C#projects\ListExercise\obj\Debug\net8.0\refint\ListExercise.dll
+C:\Users\hp\C#projects\ListExercise\obj\Debug\net8.0\ListExercise.pdb
+C:\Users\hp\C#projects\ListExercise\obj\Debug\net8.0\ListExercise.genruntimeconfig.cache
+C:\Users\hp\C#projects\ListExercise\obj\Debug\net8.0\ref\ListExercise.dll
